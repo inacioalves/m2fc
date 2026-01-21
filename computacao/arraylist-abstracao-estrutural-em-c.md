@@ -104,3 +104,6 @@ A função `intArrayList_add` e, principalmente, a função interna de crescimen
 
 No próximo artigo, exploraremos a **Arena Allocation**, uma técnica que transforma a alocação de memória de uma operação de alto custo em um simples incremento de ponteiro **O(1)**, e demonstraremos como ela pode ser aplicada para otimizar o `IntArrayList`.
 
+# Código-Fonte usado para construir esse artigo
+
+
